@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.1cd4387d.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.ef8b9b0c.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.ef8b9b0c.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.9a40246f.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.9a40246f.js.map",
+    "static/js/2.195c2651.chunk.js": "/My-Portfolio/static/js/2.195c2651.chunk.js",
+    "static/js/2.195c2651.chunk.js.map": "/My-Portfolio/static/js/2.195c2651.chunk.js.map",
+    "index.html": "/My-Portfolio/index.html",
+    "static/css/main.1cd4387d.chunk.css.map": "/My-Portfolio/static/css/main.1cd4387d.chunk.css.map",
+    "static/js/2.195c2651.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.195c2651.chunk.js.LICENSE.txt",
+    "static/media/about.7ff51226.jpg": "/My-Portfolio/static/media/about.7ff51226.jpg",
+    "static/media/avatar.cf7661af.png": "/My-Portfolio/static/media/avatar.cf7661af.png",
+    "static/media/blog1.7ecbb78c.svg": "/My-Portfolio/static/media/blog1.7ecbb78c.svg",
+    "static/media/blog2.09939351.svg": "/My-Portfolio/static/media/blog2.09939351.svg",
+    "static/media/blog3.6291ee7c.svg": "/My-Portfolio/static/media/blog3.6291ee7c.svg",
+    "static/media/blog4.60aa6cec.svg": "/My-Portfolio/static/media/blog4.60aa6cec.svg",
+    "static/media/blog5.2599a6b1.svg": "/My-Portfolio/static/media/blog5.2599a6b1.svg",
+    "static/media/design.8ecb3043.svg": "/My-Portfolio/static/media/design.8ecb3043.svg",
+    "static/media/App.scss": "/My-Portfolio/static/media/dots.9978678b.svg",
+    "static/media/emailme.a60657eb.svg": "/My-Portfolio/static/media/emailme.a60657eb.svg",
+    "static/media/game-dev.20147858.svg": "/My-Portfolio/static/media/game-dev.20147858.svg",
+    "static/media/intelligence.11bd2ab2.svg": "/My-Portfolio/static/media/intelligence.11bd2ab2.svg",
+    "static/media/location.5cd6776e.svg": "/My-Portfolio/static/media/location.5cd6776e.svg",
+    "static/media/maya-1.f370e251.jpg": "/My-Portfolio/static/media/maya-1.f370e251.jpg",
+    "static/media/phone.ef86e22a.svg": "/My-Portfolio/static/media/phone.ef86e22a.svg",
+    "static/media/port1.65d6ecfd.jpg": "/My-Portfolio/static/media/port1.65d6ecfd.jpg",
+    "static/media/port2.4aa0b2ba.jpg": "/My-Portfolio/static/media/port2.4aa0b2ba.jpg",
+    "static/media/port3.7f41458f.jpg": "/My-Portfolio/static/media/port3.7f41458f.jpg",
+    "static/media/port5.1330f6cd.jpg": "/My-Portfolio/static/media/port5.1330f6cd.jpg",
+    "static/media/port6.ccfe3b5b.jpg": "/My-Portfolio/static/media/port6.ccfe3b5b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a40246f.js",
+    "static/js/2.195c2651.chunk.js",
+    "static/css/main.1cd4387d.chunk.css",
+    "static/js/main.ef8b9b0c.chunk.js"
+  ]
+}
